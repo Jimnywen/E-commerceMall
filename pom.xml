@@ -5,6 +5,8 @@
     <groupId>com.emall</groupId>
     <artifactId>emall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+
+
     <name>emall</name>
     <description>聚合服务</description>
     <packaging>pom</packaging>
@@ -15,7 +17,12 @@
         <module>emall-order</module>
         <module>emall-product</module>
         <module>emall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>emall-common</module>
     </modules>
+
+
 
 
 </project>
